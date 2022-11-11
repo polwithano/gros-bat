@@ -690,10 +690,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2578146a670f9c14d89314a2838385bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colliderSphereRadius: 5
+  colliderSphereRadius: 7
   ballMask:
     serializedVersion: 2
     m_Bits: 128
+  ballColorGradientA: {r: 0.1484611, g: 1, b: 0, a: 1}
+  ballColorGradientB: {r: 1, g: 0.7640132, b: 0.043137252, a: 1}
 --- !u!1 &1792481660
 GameObject:
   m_ObjectHideFlags: 0
